@@ -1,0 +1,9 @@
+format = '$time$all'
+
+[directory]
+truncation_length = 0
+truncate_to_repo = false
+
+[time]
+disabled = false
+format = "[$time]($style) "
