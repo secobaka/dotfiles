@@ -1213,8 +1213,15 @@
                     "to": [{ "key_code": "illumination_increment" }]
                 }
             ],
-            "name": "Default profile",
+            "name": "Awesome Profile!",
             "selected": true,
+            "virtual_hid_keyboard": {
+                "country_code": 0,
+                "keyboard_type_v2": "ansi"
+            }
+        },
+        {
+            "name": "Default profile",
             "virtual_hid_keyboard": {
                 "country_code": 0,
                 "keyboard_type_v2": "ansi"
